@@ -32,3 +32,30 @@ section {
     color: aqua;
     font-weight: 700;
 }
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px gray;
+
+}
+
+.color {
+    color: blue;
+}
+
+#explained {
+    border-left: 7px solid blue;
+}
+
+#web-developer {
+    border-left: 7px solid orange;
+}
+
+footer {
+    color: red;
+    font-size: 60px;
+}
